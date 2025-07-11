@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SoccerFootball.png" alt="App Logo" width="400">
+  <img src="SoccerFootball.png" alt="App Logo" width="350">
 </p>
 
 # Resumen del Proyecto
