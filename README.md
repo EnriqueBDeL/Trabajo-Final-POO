@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="SoccerFootball.png" alt="App Logo" width="400">
+</p>
 
 # Resumen del Proyecto
 
